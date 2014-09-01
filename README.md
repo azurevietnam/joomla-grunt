@@ -1,2 +1,2 @@
-JGrunt
+Joomla Grunt
 ======
