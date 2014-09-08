@@ -6,7 +6,7 @@ Joomla Grunt is a Blank template for [Joomla](http://www.joomla.org/) based on [
 
 ## Features
 
-* [Grunt](http://roots.io/using-grunt-for-wordpress-theme-development/) for compiling LESS to CSS, [Autoprefixer](https://github.com/nDmitry/grunt-autoprefixer) for better browser support, checking for JS errors, live reloading, concatenating and minifying files, versioning assets, and generating lean Modernizr builds
+* [Grunt](http://gruntjs.com/) for compiling LESS to CSS, [Autoprefixer](https://github.com/nDmitry/grunt-autoprefixer) for better browser support, checking for JS errors, live reloading, concatenating and minifying files, versioning assets, and generating lean Modernizr builds
 * [Bower](http://bower.io/) for front-end package management
 * [HTML5 Boilerplate](http://html5boilerplate.com/)
   * The latest [jQuery](http://jquery.com/) via Google CDN, with a local fallback
