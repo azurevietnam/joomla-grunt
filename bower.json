@@ -1,0 +1,19 @@
+{
+  "name": "JBC",
+  "version": "1.0.0",
+  "homepage": "http://amitt.co.il",
+  "authors": [
+    "Amit Tal <contact@amitt.co.il>"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.2.0",
+    "fontawesome": "~4.2.0",
+    "modernizr": "~2.8.3"
+  }
+}

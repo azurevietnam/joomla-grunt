@@ -1,0 +1,38 @@
+{
+  "name": "JBG",
+  "version": "1.0.0",
+  "author": "Amit Tal <contact@amitt.co.il>",
+  "homepage": "http://amitt.co.il",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/AmitT/joomla-grunt"
+  },
+  "bugs": {
+    "url": "https://github.com/AmitT/joomla-grunt/issues"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://opensource.org/licenses/MIT"
+    }
+  ],
+  "scripts": {
+    "postinstall": "node node_modules/bower/bin/bower install && grunt"
+  },
+  "engines": {
+    "node": ">= 0.10.0"
+  },
+  "devDependencies": {
+    "bower": "~1.3.5",
+    "grunt": "~0.4.5",
+    "grunt-autoprefixer": "~0.8.1",
+    "grunt-contrib-concat": "~0.4.0",
+    "grunt-contrib-jshint": "~0.10.0",
+    "grunt-contrib-less": "~0.11.3",
+    "grunt-contrib-uglify": "~0.5.0",
+    "grunt-contrib-watch": "~0.6.1",
+    "grunt-modernizr": "~0.5.2",
+    "load-grunt-tasks": "~0.6.0",
+    "time-grunt": "~0.4.0"
+      }
+}
